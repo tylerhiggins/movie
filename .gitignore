@@ -1,0 +1,6 @@
+*/
+!info/
+!info/*
+.DS_Store
+*.zip
+

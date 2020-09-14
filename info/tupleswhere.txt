@@ -1,0 +1,11 @@
+genres indexed 1
+keywords indexed 4
+production companies indexed 9
+`        ` contries indexed 10
+spoken languages indexed 14
+
+movies.movie ('
+		'budget INT, homepage VARCHAR(150), movie_id INT NOT NULL, original_language CHAR(2), '
+		'original_title VARCHAR(200), overview VARCHAR(500), popularity FLOAT(6,6), release_date DATE, ' 
+		'revenue INT, runtime SMALLINT(3), status VARCHAR(50), tagline VARCHAR(150), title VARCHAR(200), ' 
+		'vote_avg FLOAT(1,1), vote_count INT
